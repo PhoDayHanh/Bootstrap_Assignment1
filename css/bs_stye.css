@@ -1,0 +1,26 @@
+
+
+header {
+    margin: 0px auto;
+    background: #9575CD !important;
+    color: floralwhite;
+}
+
+.footer {
+    background-color: #9575CD;
+}
+
+#about-us {
+    margin-top: 500px;
+    margin-bottom: 25px;
+}
+
+#history {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#coop {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
